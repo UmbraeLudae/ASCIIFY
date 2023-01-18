@@ -1,0 +1,22 @@
+{
+    "name": "com.umbrason.asciify",
+    "version": "1.0.0",
+    "displayName": "ASCIIFY",
+    "description": "ASCIIFY your renders",
+    "unity": "2019.1",
+    "unityRelease": "0b5",        
+    "dependencies": {
+        "com.unity.render-pipelines.universal": "*"
+   },
+   "keywords": [
+      "Render Feature",
+      "Post-Processing",
+      "ASCII",
+      "Stylize",
+      "Shader"
+    ],
+    "author": {
+      "name": "Umbrason",
+      ""
+    }
+  }
